@@ -4,7 +4,7 @@ public class KalkulatorSederhana {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("------Kalkulator Sederhana------");
+        System.out.println("------Kalkulator Sederhana jelek------");
         System.out.print("Masukkan angka pertama : ");
         double a = input.nextInt();
 
